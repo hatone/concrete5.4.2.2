@@ -8,6 +8,12 @@
 ## Permission
 
 [permission]
+public_html 755
+public_html/config 755
+public_html/file 755
+public_html/packages 755
+public_html/themes 755
+public_html/updates 755
 public_html/concrete/libraries/3rdparty/htmldiff.py 755
 
 
