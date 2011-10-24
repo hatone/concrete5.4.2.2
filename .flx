@@ -8,7 +8,6 @@
 ## Permission
 
 [permission]
-public_html 755
 public_html/concrete/libraries/3rdparty/htmldiff.py 755
 
 
